@@ -3,7 +3,7 @@
 ## Contract Deployment
 
 - Clone the repo by running `git clone https://github.com/b0ney-1/boilerPlateCore00.git`
-- Navigate into the folder using `cd BTCFI`
+- Navigate into the folder using `cd boilerPlateCore00`
 - Install dependencies by running `npm install`
 - Place your Private Key inside the **.env** file
 - Run `npx hardhat compile` to compile
